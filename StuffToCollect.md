@@ -51,7 +51,6 @@ Arrow stuff:
 - Sharp Rock
 - Sharp Piece of Metal
 - Any Wood
-- Long Branch
 
 
 Tools: (Lockpicks, Trap Disarming Kit)
@@ -63,7 +62,7 @@ Tools: (Lockpicks, Trap Disarming Kit)
 - Sharp Piece of Metal
 
 
-Schools: 
+Scrolls: 
 
 - Penny Bun Mushroom
 
